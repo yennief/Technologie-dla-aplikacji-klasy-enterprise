@@ -1,0 +1,6 @@
+data/EntityManagerProducer.class
+com/mycompany/Requests/resources/JakartaEE10Resource.class
+req/backing/RequestsList.class
+data/RequestRepository.class
+req/entities/Request.class
+com/mycompany/Requests/JakartaRestConfiguration.class
