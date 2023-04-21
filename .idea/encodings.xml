@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EnterpriseApp/EnterpriseApp-ear/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EnterpriseApp/EnterpriseApp-ear/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EnterpriseApp/EnterpriseApp-ejb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EnterpriseApp/EnterpriseApp-ejb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EnterpriseApp/EnterpriseApp-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EnterpriseApp/EnterpriseApp-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Requests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Requests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServletsJSPJSTL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServletsJSPJSTL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookings/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

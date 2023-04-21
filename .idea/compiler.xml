@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EnterpriseApp-ear" />
+        <module name="EnterpriseApp-web" />
+        <module name="EnterpriseApp-ejb" />
+        <module name="bookings" />
+        <module name="Requests" />
+        <module name="ServletsJSPJSTL" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookings" target="17" />
+      <module name="EnterpriseApp-ear" target="11" />
+      <module name="EnterpriseApp-ejb" target="11" />
+      <module name="EnterpriseApp-web" target="11" />
+      <module name="parent" target="1.5" />
+      <module name="Requests" target="11" />
+      <module name="ServletsJSPJSTL" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EnterpriseApp-ear" options="-endorseddirs $PROJECT_DIR$/EnterpriseApp/EnterpriseApp-ear/target/endorsed" />
+      <module name="EnterpriseApp-ejb" options="-endorseddirs $PROJECT_DIR$/EnterpriseApp/EnterpriseApp-ejb/target/endorsed" />
+      <module name="EnterpriseApp-web" options="-endorseddirs $PROJECT_DIR$/EnterpriseApp/EnterpriseApp-web/target/endorsed" />
+      <module name="Requests" options="-endorseddirs $PROJECT_DIR$/Requests/target/endorsed" />
+      <module name="bookings" options="-parameters" />
+    </option>
+  </component>
+</project>

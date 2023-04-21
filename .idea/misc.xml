@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bookings/pom.xml" />
+        <option value="$PROJECT_DIR$/Requests/pom.xml" />
+        <option value="$PROJECT_DIR$/EnterpriseApp/pom.xml" />
+        <option value="$PROJECT_DIR$/ServletsJSPJSTL/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>
