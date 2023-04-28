@@ -1,0 +1,5 @@
+dto/ComplaintDTO.class
+com/mycompany/Complaints/JakartaRestConfiguration.class
+data/EntityManagerProducer.class
+com/mycompany/Complaints/resources/JakartaEE10Resource.class
+resources/ComplaintResource.class

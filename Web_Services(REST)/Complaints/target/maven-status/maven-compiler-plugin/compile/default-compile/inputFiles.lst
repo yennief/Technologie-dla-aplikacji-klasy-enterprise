@@ -1,0 +1,9 @@
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/com/mycompany/Complaints/resources/JakartaEE10Resource.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/dto/ComplaintDTO.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/com/mycompany/Complaints/JakartaRestConfiguration.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/data/EntityManagerProducer.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/entities/Complaint.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/resources/ApplicationConfig.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/data/ComplaintRepository.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/resources/ComplaintResource.java
+/Users/justyna/NetBeansProjects/Complaints/src/main/java/services/ComplaintService.java
